@@ -1,10 +1,10 @@
-var fibonacci = require('../../lib/fibonacci');
+var fibonacci = require('../lib/fibonacci');
 
 describe('fibonacci', function () {
 
 
 	beforeEach(function () {
-	})
+	});
 
 
 	it('generates the first value', function () {
